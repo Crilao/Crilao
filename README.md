@@ -2,22 +2,23 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ocristianofurlan@gmail.com)](mailto:ocristianofurlan@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/crilao/)](https://www.linkedin.com/in/crilao/)
 
+<img align="right" src="https://octodex.github.com/images/surftocat.png" width="250">
+
 #### About me
 I'm a student at the [School of Technology](https://www.ft.unicamp.br) at the [University of Campinas](https://www.unicamp.br).
 
 - 🌱 I’m currently learning Java/JavaFX/JDBC
-
-<img align="right" src="https://octodex.github.com/images/surftocat.png" width="250">
+- ⚽ Fun fact: I love playing soccer
 
 #### Main skills
 - Java;
 - C;
 
 #### Statistics
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunorp&layout=compact)](https://github.com/brunorp)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Crilao&layout=compact)](https://github.com/Crilao)
 
 <!--
-**brunorp/brunorp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Crilao/Crilao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
