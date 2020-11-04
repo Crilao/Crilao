@@ -1,4 +1,4 @@
-## Hi there, welcome to Crilao's Github &nbsp;&nbsp;&nbsp;
+## Hi there, welcome to Crilao's Github ✌😁  &nbsp;&nbsp;&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ocristianofurlan@gmail.com)](mailto:ocristianofurlan@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/crilao/)](https://www.linkedin.com/in/crilao/)
 
