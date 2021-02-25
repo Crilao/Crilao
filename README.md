@@ -7,7 +7,8 @@
 #### About me
 I'm a student at the [School of Technology](https://www.ft.unicamp.br) at the [University of Campinas](https://www.unicamp.br).
 
-- 🌱 I’m currently learning Java/JavaFX/JDBC
+- 🔭 I’m currently interning at IBM
+- 🌱 I’m currently learning Java
 - ⚽ Fun fact: I love playing soccer
 
 #### Main skills
